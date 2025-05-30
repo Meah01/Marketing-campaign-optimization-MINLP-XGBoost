@@ -1,10 +1,16 @@
-Optimizing Marketing Campaigns Using Machine Learning - Analysing and 
-Predicting Ad Performance for Improved Budget Allocation
-Date:
+Optimizing Marketing Campaigns Using Machine Learning - Analysing and Predicting Ad Performance for Improved Budget Allocation
+Author: Alexandru Constantinescu
+Date: 30.05.2025
 
-[Description]
+Description
+This code represents an integration of a Mixed Integer Nonlinear Programming (MINLP) model with an XGBoost to optimize and predict marketing campaign metrics. It was created as a bachelor's thesis project.
 
-[Overview/Abstract]
+---------------
+
+Abstract
+This repository presents a novel hybrid optimization system that integrates Mixed Integer Nonlinear Programming (MINLP) with XGBoost machine learning for digital marketing campaign optimization. The system addresses critical gaps in Marketing Mix Modeling by combining prescriptive optimization with predictive analytics. Through comprehensive testing on multi-platform campaign data (Facebook, Google, DV360), the MINLP model demonstrates 13-25% performance improvements over traditional Linear Programming approaches while maintaining robust stability (75% of tests within ±15% variance). The integrated XGBoost models achieve high prediction accuracy (R² up to 0.94) for campaign metrics forecasting. This work provides the first empirical validation of MINLP effectiveness in marketing applications and establishes a practical framework for practitioners seeking data-driven campaign optimization solutions.
+
+---------------
 
 Acknoledgement
 Claude Sonnet 3.5 was used during the development process.
