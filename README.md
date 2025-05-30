@@ -1,4 +1,4 @@
-Optimizing Marketing Campaigns Using Machine Learning - Analysing and Predicting Ad Performance for Improved Budget Allocation
+# Optimizing Marketing Campaigns Using Machine Learning - Analysing and Predicting Ad Performance for Improved Budget Allocation
 Author: Alexandru Constantinescu
 Date: 30.05.2025
 
