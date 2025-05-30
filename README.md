@@ -17,24 +17,14 @@ Claude Sonnet 3.5 was used during the development process.
 
 ---------------
 
-Repository Structure
-├── data
-│	├── raw data
-│	└── clean data
-├── EDA
-├── interface
-├── MINLP
-│	├── final
-│	├── prototype
-│	├── sensitivity analysis
-│	└── comparison
-├── XGBoost
-│	├── final
-│	├── prototype
-│	└── hypothesis testing
-├── README.md
-├── license 
-└── requirements	
+Features
+- **MINLP Optimization Engine**: Advanced nonlinear optimization with diminishing returns modeling
+- **XGBoost Prediction Models**: High-accuracy performance forecasting (R² up to 0.94)
+- **Multi-Platform Support**: Facebook Ads, Google Ads, DV360
+- **Campaign Types**: Awareness and Conversion campaigns
+- **GUI Interface**: User-friendly interface for practitioners
+- **Comprehensive Analysis**: Statistical significance testing and sensitivity analysis
+- **Benchmark Comparisons**: Performance evaluation against Linear Programming baselines
 
 ---------------
 
